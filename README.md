@@ -91,6 +91,90 @@ So, let's take a look at the full material list.
 
 <br>
 
+# Data Scientist In Python [[📃](#)]
+
+## Step 1 - Python Introduction
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%201%20-%20Python%20Introduction/1.%20Python%20for%20Data%20Science%20Fundamentals)] [[🔍](https://app.dataquest.io/course/python-for-data-science-fundamentals)] [[📃](https://app.dataquest.io/view_cert/X9BEL93H8Z25QWDUXK8J/)] Python for Data Science: Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%201%20-%20Python%20Introduction/2.%20Python%20for%20Data%20Science%20Intermediate)] [[🔍](https://app.dataquest.io/course/python-for-data-science-intermediate)] [[📃](https://app.dataquest.io/view_cert/QLMJ0TMJ5FPKY6YCM8GU/)] Python for Data Science: Intermediate
+
+## Step 2 - Data Analysis and Visualization
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/1.%20Pandas%20and%20NumPy%20Fundamentals)] [[🔍](https://app.dataquest.io/course/pandas-fundamentals)] [[📃](https://app.dataquest.io/view_cert/GEYOURRHPJW2OTNQWA7T/)] Pandas and NumPy Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/2.%20Exploratory%20Data%20Visualization)] [[🔍](https://app.dataquest.io/course/exploratory-data-visualization)] [[📃](https://app.dataquest.io/view_cert/G4090P7762GBRZIYKXW9/)] Exploratory Data Visualization
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/3.%20Storytelling%20Through%20Data%20Visualization)] [[🔍](https://app.dataquest.io/course/storytelling-data-visualization)] [[📃](https://app.dataquest.io/view_cert/42NIUA9UMTYNDSHBUQBL/)] Storytelling Through Data Visualization
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/4.%20Data%20Cleaning%20and%20Analysis)] [[🔍](https://app.dataquest.io/course/python-datacleaning)] [[📃](https://app.dataquest.io/view_cert/H4UTNJ640PCIW3CL53Z6/)] Data Cleaning and Analysis
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/5.%20Data%20Cleaning%20in%20Python%20Advanced)] [[🔍](https://app.dataquest.io/course/python-data-cleaning-advanced)] [[📃](https://app.dataquest.io/view_cert/T7TLWPBTZFG3IKE1XSIE/)] Data Cleaning in Python: Advanced
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/6.%20Data%20Cleaning%20Project%20Walkthrough)] [[🔍](https://app.dataquest.io/course/data-exploration)] [[📃](https://app.dataquest.io/view_cert/CUZE5X8XEQS6BWPSZCWL/)] Data Cleaning Project Walkthrough
+
+## Step 3 - The Command Line
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%203%20-%20The%20Command%20Line/1.%20Elements%20of%20the%20Command%20Line)] [[🔍](https://app.dataquest.io/course/command-line-elements)] [[📃](https://app.dataquest.io/view_cert/1U9AC9HKRP923GNLN3N4/)] Elements of the Command Line
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%203%20-%20The%20Command%20Line/2.%20Text%20Processing%20in%20the%20Command%20Line)] [[🔍](https://app.dataquest.io/course/text-processing-cli)] [[📃](https://app.dataquest.io/view_cert/8HZEUTHPPK4CHH4MD3QJ/)] Text Processing in the Command Line
+
+## Step 4 - Working with Data Sources
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%204%20-%20Working%20with%20Data%20Sources/1.%20SQL%20Fundamentals)] [[🔍](https://app.dataquest.io/course/sql-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/PYLQSJH5W84WBQSEAHA0/)] SQL Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%204%20-%20Working%20with%20Data%20Sources/2.%20Intermediate%20SQL%20for%20Data%20Analysis)] [[🔍](https://app.dataquest.io/course/sql-joins-relations)] [[📃](https://app.dataquest.io/view_cert/JRH5CQERKBUQX8YGXTJT/)] Intermediate SQL for Data Analysis
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%204%20-%20Working%20with%20Data%20Sources/3.%20APIs%20and%20Web%20Scraping%20in%20Python)] [[🔍](https://app.dataquest.io/course/apis-and-scraping)] [[📃](https://app.dataquest.io/view_cert/9Q875RLT4RFVYFBMG2IO/)] APIs and Web Scraping in Python
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%204%20-%20Working%20with%20Data%20Sources/4.%20Data%20Analysis%20in%20Business)] [[🔍](https://app.dataquest.io/course/data-analysis-business)] [[📃](https://app.dataquest.io/view_cert/GDBLLMRWOJ92JOXB3HBC/)] Data Analysis in Business
+
+## Step 5 - Probability and Statistics
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals)] [[📃](https://app.dataquest.io/view_cert/1A2Y3SVEAO8MC1WRRTLU/)] Statistics Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/2.%20Statistics%20Intermediate%20Averages%20and%20Variability)] [[🔍](https://app.dataquest.io/course/statistics-intermediate)] [[📃](https://app.dataquest.io/view_cert/BCZPYFLXBJNHZ6MUG5BT/)] Statistics Intermediate: Averages and Variability
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/3.%20Probability%20Fundamentals)] [[🔍](https://app.dataquest.io/course/probability-fundamentals)] [[📃](https://app.dataquest.io/view_cert/YAMVSOFCXNSRKPXIYKN8/)] Probability: Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/4.%20Conditional%20Probability)] [[🔍](https://app.dataquest.io/course/conditional-probability)] [[📃](https://app.dataquest.io/view_cert/M0GESNHFX7SADQUL8W90/)] Conditional Probability
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/5.%20Hypothesis%20Testing%20Fundamentals)] [[🔍](https://app.dataquest.io/course/probability-statistics-intermediate)] [[📃](https://app.dataquest.io/view_cert/Z3XO0Y1FWPQS00WX707G/)] Hypothesis Testing: Fundamentals
+
+## Step 6 - Machine Learning Introduction
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/1.%20Machine%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/machine-learning-fundamentals)] [[📃](https://app.dataquest.io/view_cert/Q3EHPZ7LIZ3EGCHTJOSP/)] Machine Learning Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/2.%20Calculus%20For%20Machine%20Learning)] [[🔍](https://app.dataquest.io/course/calculus-for-machine-learning)] [[📃](https://app.dataquest.io/view_cert/4V9WS9R7F4MVJUMMRQOO/)] Calculus For Machine Learning
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/3.%20Linear%20Algebra%20For%20Machine%20Learning)] [[🔍](https://app.dataquest.io/course/linear-algebra-for-machine-learning)] [[📃](https://app.dataquest.io/view_cert/SKN3SKULVN23AC0N2361/)] Linear Algebra For Machine Learning
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/4.%20Linear%20Regression%20For%20Machine%20Learning)] [[🔍](https://app.dataquest.io/course/linear-regression-for-machine-learning)] [[📃](https://app.dataquest.io/view_cert/NSXZDGXHU20W015MPOQN/)] Linear Regression For Machine Learning
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/5.%20Machine%20Learning%20in%20Python%20Intermediate)] [[🔍](https://app.dataquest.io/course/machine-learning-intermediate)] [[📃](https://app.dataquest.io/view_cert/ANVACJJAW41Q14F00YUY/)] Machine Learning in Python: Intermediate
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/6.%20Decision%20Trees)] [[🔍](https://app.dataquest.io/course/decision-trees)] [[📃](https://app.dataquest.io/view_cert/W5APXEWF00WJUSFJNWEQ/)] Decision Trees
+
+## Step 7 - Machine Learning Intermediate
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%207%20-%20Machine%20Learning%20Intermediate/1.%20Deep%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/deep-learning-fundamentals)] [[📃](https://app.dataquest.io/view_cert/4B2IAT6O64DKEROCLI3K/)] Deep Learning Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%207%20-%20Machine%20Learning%20Intermediate/2.%20Machine%20Learning%20Project)] [[🔍](https://app.dataquest.io/course/machine-learning-project)] [[📃](https://app.dataquest.io/view_cert/4B2IAT6O64DKEROCLI3K/)] Machine Learning Project
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%207%20-%20Machine%20Learning%20Intermediate/3.%20Kaggle%20Fundamentals)] [[🔍](https://app.dataquest.io/course/kaggle-fundamentals)] [[📃](https://app.dataquest.io/view_cert/ZKFDKKZJJB63Q7MAIBSP/)] Kaggle Fundamentals
+
+## Step 8 - Advanced Topics in Data Science
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%208%20-%20Advanced%20Topics%20in%20Data%20Science/1.%20Functions%20Advanced)] [[🔍](https://app.dataquest.io/course/python-advanced-functions)] [[📃](https://app.dataquest.io/view_cert/2NS7PBQNPAU99CKCEOJ0/)] Functions: Advanced
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%208%20-%20Advanced%20Topics%20in%20Data%20Science/2.%20Command%20Line%20Intermediate)] [[🔍](https://app.dataquest.io/course/command-line-intermediate)] [[📃](https://app.dataquest.io/view_cert/YZIBU1JCJUTZLLKDNAP4/)] Command Line: Intermediate
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%208%20-%20Advanced%20Topics%20in%20Data%20Science/3.%20Git%20and%20Version%20Control)] [[🔍](https://app.dataquest.io/course/git-and-vcs)] [[📃](https://app.dataquest.io/view_cert/UAOB7VKY4ACBETV8BGBS/)] Git and Version Control
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%208%20-%20Advanced%20Topics%20in%20Data%20Science/4.%20Spark%20and%20Map-Reduce)] [[🔍](https://app.dataquest.io/course/spark-map-reduce)] [[📃](https://app.dataquest.io/view_cert/YF9CU6ZPK4WPKXQ8U2BW/)] Spark and Map-Reduce
+
+<br>
+
 # Data Analyst in R [[📃](https://app.dataquest.io/verify_cert/09HNDXUHP8AW9O2J5RTT/)]
 
 ## Step 1 - Introduction to R
