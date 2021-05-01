@@ -10,11 +10,12 @@
   <a href="https://www.dataquest.io/">Dataquest</a> is an online data learning portal that provides thousands of material and quizzes that can improve your data science skills like Python, R, SQL, Git, and more!
 </p>
 
+<br>
+
 ![](README/step-2.webp)
 
 <!-- ![](README/coding.png) -->
 
-<br />
 
 <h1 align='center'>Learn by <strike>watching videos</strike> coding!</h1>
 
