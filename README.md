@@ -177,7 +177,7 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
 ---
 
@@ -269,7 +269,7 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
 ## [[🔍](https://app.dataquest.io/path/data-scientist)] [[📃](https://app.dataquest.io/verify_cert/DT6WB6NV8KPE8G1664WD/)] Data Scientist In Python
 
@@ -389,7 +389,7 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
 ## [[🔍](https://app.dataquest.io/path/data-engineer)] [[❌]()] Data Engineer
 
@@ -461,7 +461,7 @@
 
 </details>
 
-<br>
+<!-- <br> -->
 
 ## [[🔍](https://app.dataquest.io/path/data-analyst-r)] [[📃](https://app.dataquest.io/verify_cert/09HNDXUHP8AW9O2J5RTT/)] Data Analyst in R
 
