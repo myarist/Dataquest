@@ -1,6 +1,10 @@
+<br />
+
 <p align="center">
-  <img src="README/logo.png">
+  <a href='https://app.dataquest.io/login'><img src="README/logo.png"></a>
 </p>
+
+<br />
 
 <p align="justify">
   <a href="https://www.dataquest.io/">Dataquest</a> is an online data learning portal that provides thousands of material and quizzes that can improve your data science skills like Python, R, SQL, Git, and more!
@@ -8,9 +12,13 @@
 
 ![](README/coding.png)
 
-<br>
+<br />
 
-<h1>Learn by <strike>watching videos</strike> coding!</h1>
+---
+
+<h1 align='center'>Learn by <strike>watching videos</strike> coding!</h1>
+
+![](README/step-2.webp)
 
 <p align="justify">
   Most people learn best by doing, yet many data science courses only ask you to memorize information, never to apply it. We took a different approach:
@@ -20,18 +28,63 @@
 2. In **guided projects**, you'll use the concepts you just learned to answer real-world questions on real datasets.  
 3. In a **typical Dataquest session**, you won't go more than five minutes without writing code!
 
+<br>
 
-## Learning Path
+---
 
-There are four learning path in Dataquest, including:  
-1. Data Analyst In Python  
-2. Data Scientist In Python  
-3. Data Engineer  
-4. Data Analyst in R  
+<h1 align="center">Skill Paths</h1>
 
-So, let's take a look at the full material list.
+![](README/step-1.png)
+
+## SQL Fundamentals
+
+<details><summary>Daftar Modul</summary>
+
+- [[❌]()] [[🔍](https://app.dataquest.io/course/funds-sql-i)] [[❌]()] Fundamentals of SQL I
+
+- [[❌]()] [[🔍](https://app.dataquest.io/course/funds-sql-ii)] [[❌]()] Fundamentals of SQL II
+
+- [[❌]()] [[🔍](https://app.dataquest.io/course/sql-summary)] [[❌]()] From Reports to Insights with SQL
+
+</details>
+
+## Python Basics for Data Analysis
+
+<details><summary>Daftar Modul</summary>
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%201%20-%20Introduction%20to%20Python/1.%20Python%20for%20Data%20Science%20Fundamentals)] [[🔍](https://app.dataquest.io/course/python-for-data-science-fundamentals)] [[📃](https://app.dataquest.io/view_cert/X9BEL93H8Z25QWDUXK8J/)] Python for Data Science: Fundamentals
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%201%20-%20Introduction%20to%20Python/2.%20Python%20for%20Data%20Science%20Intermediate)] [[🔍](https://app.dataquest.io/course/python-for-data-science-intermediate)] [[📃](https://app.dataquest.io/view_cert/QLMJ0TMJ5FPKY6YCM8GU/)] Python for Data Science: Intermediate
+
+</details>
+
+## R Basics for Data Analysis
+
+<details><summary>Daftar Modul</summary>
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/1.%20Introduction%20to%20Data%20Analysis%20in%20R)] [[🔍](https://app.dataquest.io/course/intro-to-r-rewrite)] [[📃](https://app.dataquest.io/verify_cert/W2AZJ3H6EDR9OQZSQD5M/)] Introduction to Data Analysis in R
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/2.%20Data%20Structures%20in%20R)] [[🔍](https://app.dataquest.io/course/datastructure-in-r-rewrite)] [[📃](https://app.dataquest.io/verify_cert/VEDXPOUNKHMKH95BEUZI/)] Data Structures in R
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/3.%20Control%20Flow%2C%20Iteration%20and%20Functions%20in%20R)] [[🔍](https://app.dataquest.io/course/intermediate-r)] [[📃](https://app.dataquest.io/verify_cert/OOKO5I7CMIOTE927O3K5/)] Control Flow, Iteration and Functions in R
+
+- [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/4.%20Specialized%20Data%20Processing%20in%20R%20Strings%20and%20Dates)] [[🔍](https://app.dataquest.io/course/intermediate-r-part-two)] [[📃](https://app.dataquest.io/verify_cert/KMP1XH0GITOULTP5YQOT/)] Specialized Data Processing in R: Strings and Dates
+
+</details>
+
+
+
+
 
 <br>
+
+---
+
+<h1 align="center">Career Paths</h1>
+
+![](README/step-3.png)
+
+---
 
 # Data Analyst in Python [[📃](https://app.dataquest.io/view_cert/YBW9AI6FWCEWKMWU3MRV/)]
 
