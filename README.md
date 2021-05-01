@@ -467,7 +467,7 @@
 
 <details><summary>Daftar Materi</summary>
 
-## Step 1 - Introduction to R
+### Step 1 - Introduction to R
 
 <details><summary>Daftar Modul</summary>
 
@@ -481,7 +481,7 @@
 
 </details>
 
-## Step 2 - Data Visualization in R
+### Step 2 - Data Visualization in R
 
 <details><summary>Daftar Modul</summary>
 
@@ -489,7 +489,7 @@
 
 </details>
 
-## Step 3 - Data Cleaning in R
+### Step 3 - Data Cleaning in R
 
 <details><summary>Daftar Modul</summary>
 
@@ -499,7 +499,7 @@
 
 </details>
 
-## Step 4 - Working with Data Sources
+### Step 4 - Working with Data Sources
 
 <details><summary>Daftar Modul</summary>
 
@@ -509,7 +509,7 @@
 
 </details>
 
-## Step 5 - Probability and Statistics
+### Step 5 - Probability and Statistics
 
 <details><summary>Daftar Modul</summary>
 
@@ -525,7 +525,7 @@
 
 </details>
 
-## Step 6 - Predictive Modeling and Machine Learning in R
+### Step 6 - Predictive Modeling and Machine Learning in R
 
 <details><summary>Daftar Modul</summary>
 
