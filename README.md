@@ -37,7 +37,7 @@
 
 ![](README/step-1.png)
 
-## [[🔍](https://app.dataquest.io/path/sql-fundamentals)] [[❌]()] SQL Fundamentals
+### [[🔍](https://app.dataquest.io/path/sql-fundamentals)] [[❌]()] SQL Fundamentals
 
 <details><summary>Daftar Modul</summary>
 
@@ -49,7 +49,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/python-basics-data-analysis-skill)] [[📃](https://app.dataquest.io/verify_cert/9FLWJ2OC0IDNHMYVUSL7/)] Python Basics for Data Analysis
+### [[🔍](https://app.dataquest.io/path/python-basics-data-analysis-skill)] [[📃](https://app.dataquest.io/verify_cert/9FLWJ2OC0IDNHMYVUSL7/)] Python Basics for Data Analysis
 
 <details><summary>Daftar Modul</summary>
 
@@ -59,7 +59,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/r-basics-data-analysis-skill)] [[❌]()] R Basics for Data Analysis
+### [[🔍](https://app.dataquest.io/path/r-basics-data-analysis-skill)] [[❌]()] R Basics for Data Analysis
 
 <details><summary>Daftar Modul</summary>
 
@@ -73,7 +73,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/data-analysis-visualization-python-skill)] [[❌]()] Data Analysis and Visualization with Python
+### [[🔍](https://app.dataquest.io/path/data-analysis-visualization-python-skill)] [[❌]()] Data Analysis and Visualization with Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -91,7 +91,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/data-visualization-r-skill)] [[📃](https://app.dataquest.io/verify_cert/A90WG3J9B049SQY50103/)] Data Visualization with R
+### [[🔍](https://app.dataquest.io/path/data-visualization-r-skill)] [[📃](https://app.dataquest.io/verify_cert/A90WG3J9B049SQY50103/)] Data Visualization with R
 
 <details><summary>Daftar Modul</summary>
 
@@ -99,7 +99,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/apis-web-scraping-python-skill)] [[📃](https://app.dataquest.io/verify_cert/AR6IXV29IB01PXTABJRZ/)] APIs and Web Scraping with Python
+### [[🔍](https://app.dataquest.io/path/apis-web-scraping-python-skill)] [[📃](https://app.dataquest.io/verify_cert/AR6IXV29IB01PXTABJRZ/)] APIs and Web Scraping with Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -107,7 +107,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/apis-web-scraping-r-skill)] [[❌]()] APIs and Web Scraping with R
+### [[🔍](https://app.dataquest.io/path/apis-web-scraping-r-skill)] [[❌]()] APIs and Web Scraping with R
 
 <details><summary>Daftar Modul</summary>
 
@@ -115,7 +115,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/machine-learning-introduction-python-skill)] [[❌]()] Machine Learning Introduction with Python
+### [[🔍](https://app.dataquest.io/path/machine-learning-introduction-python-skill)] [[❌]()] Machine Learning Introduction with Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -133,7 +133,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/machine-learning-intermediate-python-skill)] [[📃](https://app.dataquest.io/verify_cert/9LAE37K1KF3CP9NVMY4H/)] Machine Learning Intermediate with Python
+### [[🔍](https://app.dataquest.io/path/machine-learning-intermediate-python-skill)] [[📃](https://app.dataquest.io/verify_cert/9LAE37K1KF3CP9NVMY4H/)] Machine Learning Intermediate with Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -145,7 +145,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/probability-statistics-python-skill)] [[📃](https://app.dataquest.io/verify_cert/Y2QKKCFHX8SYRFWX9IE1/)] Probability and Statistics with Python
+### [[🔍](https://app.dataquest.io/path/probability-statistics-python-skill)] [[📃](https://app.dataquest.io/verify_cert/Y2QKKCFHX8SYRFWX9IE1/)] Probability and Statistics with Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -161,7 +161,7 @@
 
 </details>
 
-## [[🔍](https://app.dataquest.io/path/probability-statistics-with-r-skill)] [[📃](https://app.dataquest.io/verify_cert/FWD5FNVGDXLKPKX6OB7J/)] Probability and Statistics with R
+### [[🔍](https://app.dataquest.io/path/probability-statistics-with-r-skill)] [[📃](https://app.dataquest.io/verify_cert/FWD5FNVGDXLKPKX6OB7J/)] Probability and Statistics with R
 
 <details><summary>Daftar Modul</summary>
 
@@ -189,7 +189,7 @@
 
 <details><summary>Daftar Materi</summary>
 
-## Step 1 - Introduction to Python
+### Step 1 - Introduction to Python
 
 <details><summary>Daftar Modul</summary>
 
@@ -199,7 +199,7 @@
 
 </details>
 
-## Step 2 - Intermediate Python and Pandas
+### Step 2 - Intermediate Python and Pandas
 
 <details><summary>Daftar Modul</summary>
 
@@ -217,7 +217,7 @@
 
 </details>
 
-## Step 3 - The Command Line
+### Step 3 - The Command Line
 
 <details><summary>Daftar Modul</summary>
 
@@ -227,7 +227,7 @@
 
 </details>
 
-## Step 4 - Working with Data Sources
+### Step 4 - Working with Data Sources
 
 <details><summary>Daftar Modul</summary>
 
@@ -241,7 +241,7 @@
 
 </details>
 
-## Step 5 - Probability and Statistics
+### Step 5 - Probability and Statistics
 
 <details><summary>Daftar Modul</summary>
 
@@ -257,7 +257,7 @@
 
 </details>
 
-## Step 6 - Advanced Topics in Data Analysis
+### Step 6 - Advanced Topics in Data Analysis
 
 <details><summary>Daftar Modul</summary>
 
@@ -275,7 +275,7 @@
 
 <details><summary>Daftar Materi</summary>
 
-## Step 1 - Python Introduction
+### Step 1 - Python Introduction
 
 <details><summary>Daftar Modul</summary>
 
@@ -285,7 +285,7 @@
 
 </details>
 
-## Step 2 - Data Analysis and Visualization
+### Step 2 - Data Analysis and Visualization
 
 <details><summary>Daftar Modul</summary>
 
@@ -303,7 +303,7 @@
 
 </details>
 
-## Step 3 - The Command Line
+### Step 3 - The Command Line
 
 <details><summary>Daftar Modul</summary>
 
@@ -313,7 +313,7 @@
 
 </details>
 
-## Step 4 - Working with Data Sources
+### Step 4 - Working with Data Sources
 
 <details><summary>Daftar Modul</summary>
 
@@ -327,7 +327,7 @@
 
 </details>
 
-## Step 5 - Probability and Statistics
+### Step 5 - Probability and Statistics
 
 <details><summary>Daftar Modul</summary>
 
@@ -343,7 +343,7 @@
 
 </details>
 
-## Step 6 - Machine Learning Introduction
+### Step 6 - Machine Learning Introduction
 
 <details><summary>Daftar Modul</summary>
 
@@ -361,7 +361,7 @@
 
 </details>
 
-## Step 7 - Machine Learning Intermediate
+### Step 7 - Machine Learning Intermediate
 
 <details><summary>Daftar Modul</summary>
 
@@ -373,7 +373,7 @@
 
 </details>
 
-## Step 8 - Advanced Topics in Data Science
+### Step 8 - Advanced Topics in Data Science
 
 <details><summary>Daftar Modul</summary>
 
