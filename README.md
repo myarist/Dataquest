@@ -39,7 +39,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/sql-fundamentals)] [[❌]()] SQL Fundamentals
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/funds-sql-i)] [[❌]()] Fundamentals of SQL I
 
@@ -51,7 +51,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/python-basics-data-analysis-skill)] [[📃](https://app.dataquest.io/verify_cert/9FLWJ2OC0IDNHMYVUSL7/)] Python Basics for Data Analysis
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%201%20-%20Introduction%20to%20Python/1.%20Python%20for%20Data%20Science%20Fundamentals)] [[🔍](https://app.dataquest.io/course/python-for-data-science-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/X9BEL93H8Z25QWDUXK8J/)] Python for Data Science: Fundamentals
 
@@ -61,7 +61,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/r-basics-data-analysis-skill)] [[❌]()] R Basics for Data Analysis
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/1.%20Introduction%20to%20Data%20Analysis%20in%20R)] [[🔍](https://app.dataquest.io/course/intro-to-r-rewrite)] [[📃](https://app.dataquest.io/verify_cert/W2AZJ3H6EDR9OQZSQD5M/)] Introduction to Data Analysis in R
 
@@ -75,7 +75,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/data-analysis-visualization-python-skill)] [[❌]()] Data Analysis and Visualization with Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%202%20-%20Intermediate%20Python%20and%20Pandas/1.%20Pandas%20and%20NumPy%20Fundamentals)] [[🔍](https://app.dataquest.io/course/pandas-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/GEYOURRHPJW2OTNQWA7T/)] Data Visualization Fundamentals
 
@@ -93,7 +93,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/data-visualization-r-skill)] [[📃](https://app.dataquest.io/verify_cert/A90WG3J9B049SQY50103/)] Data Visualization with R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%202%20-%20Data%20Visualization%20in%20R/Data%20Visualization%20in%20R)] [[🔍](https://app.dataquest.io/course/r-data-viz)] [[📃](https://app.dataquest.io/verify_cert/RRHJ759WE6JGKD59GL4O/)] Data Visualization in R
 
@@ -101,7 +101,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/apis-web-scraping-python-skill)] [[📃](https://app.dataquest.io/verify_cert/AR6IXV29IB01PXTABJRZ/)] APIs and Web Scraping with Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%204%20-%20Working%20with%20Data%20Sources/3.%20APIs%20and%20Web%20Scraping%20in%20Python)] [[🔍](https://app.dataquest.io/course/apis-and-scraping)] [[📃](https://app.dataquest.io/verify_cert/9Q875RLT4RFVYFBMG2IO/)] APIs and Web Scraping in Python
 
@@ -109,7 +109,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/apis-web-scraping-r-skill)] [[❌]()] APIs and Web Scraping with R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/apis-in-r)] [[❌]()] APIs in R
 
@@ -117,7 +117,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/machine-learning-introduction-python-skill)] [[❌]()] Machine Learning Introduction with Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/1.%20Machine%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/machine-learning-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/Q3EHPZ7LIZ3EGCHTJOSP/)] Machine Learning Fundamentals
 
@@ -135,7 +135,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/machine-learning-intermediate-python-skill)] [[📃](https://app.dataquest.io/verify_cert/9LAE37K1KF3CP9NVMY4H/)] Machine Learning Intermediate with Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%207%20-%20Machine%20Learning%20Intermediate/1.%20Deep%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/deep-learning-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/4B2IAT6O64DKEROCLI3K/)] Deep Learning Fundamentals
 
@@ -147,7 +147,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/probability-statistics-python-skill)] [[📃](https://app.dataquest.io/verify_cert/Y2QKKCFHX8SYRFWX9IE1/)] Probability and Statistics with Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/1A2Y3SVEAO8MC1WRRTLU/)] Statistics Fundamentals
 
@@ -163,7 +163,7 @@
 
 ### [[🔍](https://app.dataquest.io/path/probability-statistics-with-r-skill)] [[📃](https://app.dataquest.io/verify_cert/FWD5FNVGDXLKPKX6OB7J/)] Probability and Statistics with R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals%20in%20R)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals-r)] [[📃](https://app.dataquest.io/verify_cert/WDL2CJOOSJ7OAD85E01I/)] Statistics Fundamentals in R
 
@@ -187,11 +187,11 @@
 
 ## [[🔍](https://app.dataquest.io/path/data-analyst)] [[📃](https://app.dataquest.io/verify_cert/YBW9AI6FWCEWKMWU3MRV/)] Data Analyst in Python
 
-<details><summary>Daftar Materi</summary>
+<details><summary>Material Lists</summary>
 
 ### Step 1 - Introduction to Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%201%20-%20Introduction%20to%20Python/1.%20Python%20for%20Data%20Science%20Fundamentals)] [[🔍](https://app.dataquest.io/course/python-for-data-science-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/X9BEL93H8Z25QWDUXK8J/)] Python for Data Science: Fundamentals
 
@@ -201,7 +201,7 @@
 
 ### Step 2 - Intermediate Python and Pandas
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%202%20-%20Intermediate%20Python%20and%20Pandas/1.%20Pandas%20and%20NumPy%20Fundamentals)] [[🔍](https://app.dataquest.io/course/pandas-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/GEYOURRHPJW2OTNQWA7T/)] Pandas and NumPy Fundamentals
 
@@ -219,7 +219,7 @@
 
 ### Step 3 - The Command Line
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%203%20-%20The%20Command%20Line/1.%20Elements%20of%20the%20Command%20Line)] [[🔍](https://app.dataquest.io/course/command-line-elements)] [[📃](https://app.dataquest.io/verify_cert/1U9AC9HKRP923GNLN3N4/)] Elements of the Command Line
 
@@ -229,7 +229,7 @@
 
 ### Step 4 - Working with Data Sources
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%204%20-%20Working%20with%20Data%20Sources/1.%20SQL%20Fundamentals)] [[🔍](https://app.dataquest.io/course/sql-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/PYLQSJH5W84WBQSEAHA0/)] SQL Fundamentals
 
@@ -243,7 +243,7 @@
 
 ### Step 5 - Probability and Statistics
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/1A2Y3SVEAO8MC1WRRTLU/)] Statistics Fundamentals
 
@@ -259,7 +259,7 @@
 
 ### Step 6 - Advanced Topics in Data Analysis
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20Python/Step%206%20-%20Advanced%20Topics%20in%20Data%20Analysis/1.%20Command%20Line%20Intermediate)] [[🔍](https://app.dataquest.io/course/command-line-intermediate)] [[📃](https://app.dataquest.io/verify_cert/YZIBU1JCJUTZLLKDNAP4/)] Command Line: Intermediate
 
@@ -273,11 +273,11 @@
 
 ## [[🔍](https://app.dataquest.io/path/data-scientist)] [[📃](https://app.dataquest.io/verify_cert/DT6WB6NV8KPE8G1664WD/)] Data Scientist In Python
 
-<details><summary>Daftar Materi</summary>
+<details><summary>Material Lists</summary>
 
 ### Step 1 - Python Introduction
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%201%20-%20Python%20Introduction/1.%20Python%20for%20Data%20Science%20Fundamentals)] [[🔍](https://app.dataquest.io/course/python-for-data-science-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/X9BEL93H8Z25QWDUXK8J/)] Python for Data Science: Fundamentals
 
@@ -287,7 +287,7 @@
 
 ### Step 2 - Data Analysis and Visualization
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%202%20-%20Data%20Analysis%20and%20Visualization/1.%20Pandas%20and%20NumPy%20Fundamentals)] [[🔍](https://app.dataquest.io/course/pandas-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/GEYOURRHPJW2OTNQWA7T/)] Pandas and NumPy Fundamentals
 
@@ -305,7 +305,7 @@
 
 ### Step 3 - The Command Line
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%203%20-%20The%20Command%20Line/1.%20Elements%20of%20the%20Command%20Line)] [[🔍](https://app.dataquest.io/course/command-line-elements)] [[📃](https://app.dataquest.io/verify_cert/1U9AC9HKRP923GNLN3N4/)] Elements of the Command Line
 
@@ -315,7 +315,7 @@
 
 ### Step 4 - Working with Data Sources
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%204%20-%20Working%20with%20Data%20Sources/1.%20SQL%20Fundamentals)] [[🔍](https://app.dataquest.io/course/sql-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/PYLQSJH5W84WBQSEAHA0/)] SQL Fundamentals
 
@@ -329,7 +329,7 @@
 
 ### Step 5 - Probability and Statistics
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/1A2Y3SVEAO8MC1WRRTLU/)] Statistics Fundamentals
 
@@ -345,7 +345,7 @@
 
 ### Step 6 - Machine Learning Introduction
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%206%20-%20Machine%20Learning%20Introduction/1.%20Machine%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/machine-learning-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/Q3EHPZ7LIZ3EGCHTJOSP/)] Machine Learning Fundamentals
 
@@ -363,7 +363,7 @@
 
 ### Step 7 - Machine Learning Intermediate
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%207%20-%20Machine%20Learning%20Intermediate/1.%20Deep%20Learning%20Fundamentals)] [[🔍](https://app.dataquest.io/course/deep-learning-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/4B2IAT6O64DKEROCLI3K/)] Deep Learning Fundamentals
 
@@ -375,7 +375,7 @@
 
 ### Step 8 - Advanced Topics in Data Science
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Scientist%20In%20Python/Step%208%20-%20Advanced%20Topics%20in%20Data%20Science/1.%20Functions%20Advanced)] [[🔍](https://app.dataquest.io/course/python-advanced-functions)] [[📃](https://app.dataquest.io/verify_cert/2NS7PBQNPAU99CKCEOJ0/)] Functions: Advanced
 
@@ -393,11 +393,11 @@
 
 ## [[🔍](https://app.dataquest.io/path/data-engineer)] [[❌]()] Data Engineer
 
-<details><summary>Daftar Materi</summary>
+<details><summary>Material Lists</summary>
 
 ## Step 1 - Introduction to Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/python-fundamentals-de)] [[❌]()] Python Fundamentals
 
@@ -409,7 +409,7 @@
 
 ## Step 2 - Introduction to Algorithms
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/algorithm-complexity)] [[❌]()] Algorithm Complexity
 
@@ -417,7 +417,7 @@
 
 ## Step 3 - Working with Data Sources
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/sql-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/PYLQSJH5W84WBQSEAHA0/)] SQL Fundamentals
 
@@ -427,7 +427,7 @@
 
 ## Step 4 - Production Databases
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/postgres-for-data-engineers)] [[❌]()] Postgres for Data Engineers
 
@@ -437,7 +437,7 @@
 
 ## Step 5 - Handling Large Data Sets in Python
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/numpy-for-de)] [[❌]()] Numpy for Data Engineers
 
@@ -453,7 +453,7 @@
 
 ## Step 6 - Data Pipelines
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[❌]()] [[🔍](https://app.dataquest.io/course/building-a-data-pipeline)] [[❌]()] Building a Data Pipeline
 
@@ -465,11 +465,11 @@
 
 ## [[🔍](https://app.dataquest.io/path/data-analyst-r)] [[📃](https://app.dataquest.io/verify_cert/09HNDXUHP8AW9O2J5RTT/)] Data Analyst in R
 
-<details><summary>Daftar Materi</summary>
+<details><summary>Material Lists</summary>
 
 ### Step 1 - Introduction to R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%201%20-%20Introduction%20to%20R/1.%20Introduction%20to%20Data%20Analysis%20in%20R)] [[🔍](https://app.dataquest.io/course/intro-to-r-rewrite)] [[📃](https://app.dataquest.io/verify_cert/W2AZJ3H6EDR9OQZSQD5M/)] Introduction to Data Science with R
 
@@ -483,7 +483,7 @@
 
 ### Step 2 - Data Visualization in R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%202%20-%20Data%20Visualization%20in%20R/Data%20Visualization%20in%20R)] [[🔍](https://app.dataquest.io/course/r-data-viz)] [[📃](https://app.dataquest.io/verify_cert/RRHJ759WE6JGKD59GL4O/)] Data Visualization in R
 
@@ -491,7 +491,7 @@
 
 ### Step 3 - Data Cleaning in R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%203%20-%20Data%20Cleaning%20in%20R/1.%20Data%20Cleaning%20in%20R)] [[🔍](https://app.dataquest.io/course/r-data-cleaning)] [[📃](https://app.dataquest.io/verify_cert/KHKS4TXWCQQ3H9HXLAQK/)] Data Cleaning in R
 
@@ -501,7 +501,7 @@
 
 ### Step 4 - Working with Data Sources
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%204%20-%20Working%20with%20Data%20Sources/1.%20SQL%20Fundamentals)] [[🔍](https://app.dataquest.io/course/sql-fundamentals)] [[📃](https://app.dataquest.io/verify_cert/PYLQSJH5W84WBQSEAHA0/)] SQL Fundamentals
 
@@ -511,7 +511,7 @@
 
 ### Step 5 - Probability and Statistics
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%205%20-%20Probability%20and%20Statistics/1.%20Statistics%20Fundamentals%20in%20R)] [[🔍](https://app.dataquest.io/course/statistics-fundamentals-r)] [[📃](https://app.dataquest.io/verify_cert/WDL2CJOOSJ7OAD85E01I/)] Statistics Fundamentals in R
 
@@ -527,7 +527,7 @@
 
 ### Step 6 - Predictive Modeling and Machine Learning in R
 
-<details><summary>Daftar Modul</summary>
+<details><summary>Module Lists</summary>
 
 - [[📂](https://github.com/MyArist/Dataquest/tree/master/Data%20Analyst%20in%20R/Step%206%20-%20Predictive%20Modeling%20and%20Machine%20Learning%20in%20R/1.%20Linear%20Regression%20Modeling%20in%20R)] [[🔍](https://app.dataquest.io/course/linear-modeling-r)] [[📃](https://app.dataquest.io/verify_cert/FOQLKOY1I41V82D9ZYLZ/)] Linear Regression Modeling in R
 
